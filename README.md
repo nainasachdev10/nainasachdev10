@@ -8,7 +8,7 @@
 ---
 
 🎓 **Fourth-Year AI & Data Science Engineering Student @ VESIT**  
-💡 **SheFi Scholar (Season 13)**  
+💡 **SheFi Scholar (Season 13) and Dev3Pack Fellow**  
 🛠️ **Quick learner**  
 🚀 Passionate about building at the intersection of **AI, Web3, and Scalable Tech**  
 🌱 Constantly exploring **emerging technologies, innovation, and real-world impact**
